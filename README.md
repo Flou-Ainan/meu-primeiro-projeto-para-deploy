@@ -1,3 +1,6 @@
+# Projeto de Flou Ainan
+ Esse projeto tem o objetivo de aprender o processo de criar um react app e fazer o deploy desta aplicação para a plataforma Netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,6 +1,21 @@
 # Projeto de Flou Ainan
  Esse projeto tem o objetivo de aprender o processo de criar um react app e fazer o deploy desta aplicação para a plataforma Netlify
 
+ Objetivo concluido com sucesso !
+
+ Este é o link da versão publicada: https://meu-primeiro-projeto-para-deploy.netlify.app/
+
+ 
+ Esse projeto faz parte de uma jornada pessoal que estou descrevendo neste canal do Telegram:
+ https://t.me/dapedraaodigital
+
+ Instagram: https://www.instagram.com/8flow.codeart/
+
+ Linkedin: https://www.linkedin.com/in/flou-ainan-gabriel-macena-284864230/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
